@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=ZSZoaG0PqLg
 
 # github에서 PR보내고 다시 PR보낼 때 유의 사항 
 https://www.youtube.com/watch?v=CbLNbCUsh5c
+
 [참고 URL](http://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
 
 # github에서 conflict나는 상황 
