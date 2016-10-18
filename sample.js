@@ -1,6 +1,7 @@
 
-document.addEventListener("DOMContentLoaded",function () {
-	document.getElementById('test').addEventListener("click",function(){
+document.addEventListener("DOMContentLoaded",function _ => {
+	document.getElementById('test').addEventListener("click", _ => {
 		alert("click");
 	});	
-})
+});
+
