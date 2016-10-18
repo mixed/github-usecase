@@ -1,5 +1,8 @@
 
+window.onload = function(){
+	document.getElementById('test').addEventListener("click",function(){
+		alert("click");
+	});	
+}
 
-document.getElementById('test').addEventListener("click",function(){
-	alert("click");
-});
+
