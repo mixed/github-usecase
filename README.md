@@ -1,2 +1,3 @@
 # github-sample
-github 사용 예제
+
+github으로 간단하게 코드리뷰는 하는 영상을 위한 저장소입니다.
