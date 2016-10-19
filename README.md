@@ -1,6 +1,6 @@
 # github-usecase
 
-github을 사용하면서 겪는 이슈를 영상으로 만든 저장소입니다.
+github을 사용하는 사례를 영상으로 만든 저장소입니다.
 
 
 # [branch로 코드 리뷰하기](https://www.youtube.com/watch?v=_giqGNzR1Nc)
