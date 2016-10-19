@@ -1,5 +1,5 @@
 
 document.addEventListener("DOMContentLoaded", function() {
-	document.getElementById('test10').addEventListener("click", function() {
+	document.getElementById('test1').addEventListener("click", function() {
 });
 
