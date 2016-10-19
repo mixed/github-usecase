@@ -1,4 +1,4 @@
-# github-sample
+# github-usecase
 
 github을 사용하면서 겪는 이슈를 영상으로 만든 저장소입니다.
 
